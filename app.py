@@ -28,3 +28,4 @@ st.markdown("""
             - Building a user-friendly, assistive tech that allows accessibility""")
 st.title("Dysarthric App")
 st.markdown('<a href="https://asr-dysarthria-preliminary.pages.dev/" target="_blank">ASR Dysarthria</a>', unsafe_allow_html=True)
+st.title("End Semester Presentation")

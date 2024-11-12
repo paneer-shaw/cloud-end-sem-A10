@@ -15,3 +15,5 @@ st.write("For those living with dysarthria, support from family, friends, and he
 st.write("If you know someone with dysarthria, remember to be patient, give them time to express themselves, and ask for clarification when needed rather than pretending to understand. Your patience and support can make a meaningful difference in their daily experiences.")
 st.subheader('Treatment plans')
 st.write('Treatment for dysarthria, regardless of the underlying cause, typically involves a comprehensive approach. Speech therapy plays a crucial role, helping patients develop compensatory strategies, strengthen affected muscles, improve breath control, and enhance articulation. In cases where traditional speech becomes impossible, therapists can help patients learn alternative communication methods. The key to effective treatment lies in early intervention and consistent practice, along with the coordination of various healthcare professionals working together to address both the underlying condition and its effects on speech.')
+
+st.write("AIE A Group 10: Subhashini, Siddhaarth, Rasha, Poojitha")
